@@ -2,12 +2,11 @@
 .Header{
     width: 100% !important;
     height: 50px !important;
-    position: absolute;
+    padding-top: 15px !important;
 }
 
 .HeaderTitle{
     margin: auto auto !important;
-    margin-top: 15px !important;
     max-width:  150px !important;
 }
 
