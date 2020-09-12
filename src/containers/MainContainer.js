@@ -1,9 +1,13 @@
 import React from 'react';
 import HeaderComponent from '../components/HeaderComponent';
+import WallContainer from './WallContainer';
 
 function MainContainer(){
     return(
-        <HeaderComponent></HeaderComponent>
+        <React.Fragment>
+            <HeaderComponent></HeaderComponent>
+            <WallContainer></WallContainer>
+        </React.Fragment>
     );
 }
 

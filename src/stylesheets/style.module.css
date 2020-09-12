@@ -32,3 +32,10 @@ fill:#70B7FD; color:#fff; position: absolute; top: 0; border: 0; right: 0;
         animation:octocat-wave 560ms ease-in-out
     }
 }
+
+/* Search */
+.SearchComponent{
+    width: 100% !important;
+    text-align: center !important;
+    margin-top: 5px !important;
+}
