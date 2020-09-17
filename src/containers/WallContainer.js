@@ -1,8 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import styles from '../stylesheets/style.module.css';
 import {users} from '../dataSet/users';
-import source from '../dataSet/githubCards/srinibasbiswal.md';
-import ReactMarkdown from "react-markdown";
+import ProfileCardComponent from '../components/ProfileCardComponent';
 
 function WallContainer(){
 
@@ -62,25 +61,22 @@ function WallContainer(){
                     <input type="submit" value="Submit" />
                 </form>
             </div>
-            <div>
-                {
-                    (typeof userGithubCards.cards !== 'undefined')
-                    ? <div>
-                        {
-                            usersProfile.profiles.map((profile, index) => {                 
-                                return(
-                                    <div>
-                                    <div>{profile.githubUserName}</div>
-                                    <div>{userGithubCards.cards[profile.githubUserName]}</div>
-                                    </div>
-                                )
-                            })
-                        }
-                    </div>
-                    : <div></div>
-                   
-                }                
-            </div>
+            {
+            (typeof userGithubCards.cards !== 'undefined')
+                ? <div className={styles.ProfileCardContainer}>
+                    {
+                        usersProfile.profiles.map((profile, index) => {                 
+                            return(
+                                <ProfileCardComponent
+                                    profileDetails = {profile}
+                                    markDown={userGithubCards.cards[profile.githubUserName]}
+                                />
+                            )
+                        })
+                    }
+                </div>
+                : <div></div>       
+            }
         </React.Fragment>
     )
 }

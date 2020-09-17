@@ -39,3 +39,16 @@ fill:#70B7FD; color:#fff; position: absolute; top: 0; border: 0; right: 0;
     text-align: center !important;
     margin-top: 5px !important;
 }
+
+/* Wall */
+.ProfileCardContainer{
+    max-width: 75vw !important;
+    margin: auto auto !important;
+}
+
+/* Card */
+.ProfileCard{
+    max-width: 75vw !important;
+    margin: auto auto !important;
+    border-style: solid;
+}
