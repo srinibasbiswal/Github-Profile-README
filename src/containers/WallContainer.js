@@ -9,7 +9,13 @@ function WallContainer(){
         profiles : []
     });
 
+    const [globalProfiles, setglobalProfiles] = useState({
+        profiles : []
+    });
+
     const [userGithubCards, setuserGithubCards] = useState({});
+
+    const [searchValue, setsearchValue] = useState('');
 
     const importAll = (r) => r.keys().map(r);
     const markdownFiles = importAll(require.context('../dataSet/githubCards', false, /\.md$/)).sort().reverse();
@@ -17,9 +23,10 @@ function WallContainer(){
     useEffect(() => {
         var profileCards = [];
         users.forEach(user => {
-            profileCards.push(user);       
+            profileCards.push(user);
         });
-        setusersProfile({profiles : profileCards})           
+        setusersProfile({profiles : profileCards})
+        setglobalProfiles({profiles : profileCards})           
         renderPosts();
       }, []);
 
@@ -47,16 +54,34 @@ function WallContainer(){
     }
 
     const handleSubmit = (event) => {
-        console.log(userGithubCards);
-        event.preventDefault();
-      }
+        handleSearch(searchValue);
+        event.preventDefault();        
+    }
+
+    const search = (event) => {
+        const target = event.target;
+        setsearchValue(target.value); 
+        handleSearch(target.value);       
+    }
+
+    const handleSearch = (searchValue) =>{
+        var profileCards = globalProfiles.profiles;
+        var matchedProfiles = [];
+        profileCards.forEach(profile => {
+            if (profile.githubUserName.indexOf(searchValue) !== -1 ){
+                matchedProfiles.push(profile);
+            }
+        });
+        setusersProfile({profiles : matchedProfiles});
+        renderPosts();        
+    }
 
     return(
         <React.Fragment>
             <div className={`${styles.SearchComponent}`}>
                 <form onSubmit={handleSubmit}>
                     <label>
-                    <input type="text" placeholder="Search" />
+                    <input type="text" placeholder="Search" name="search" value={searchValue} onChange={search}/>
                     </label>
                     <input type="submit" value="Submit" />
                 </form>
