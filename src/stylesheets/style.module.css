@@ -39,21 +39,25 @@ fill:var(--primary); color:#fff; position: absolute; top: 0; border: 0; right: 0
 /* Wall */
 .ProfileCardContainer{
     max-width: 75vw !important;
-    margin: 10px auto !important;
+    margin: 40px auto !important;
 }
 
 /* Card */
 .ProfileCard{
     max-width: 75vw !important;
-    margin: auto auto !important;
-    border-style: solid;
-}
+    margin: 40px auto !important;
+    padding: 20px;
+    /* background: #ebf5fc; */
+    border-radius: 3rem;
+  box-shadow:.8rem .8rem 1.4rem var(--greyLight-2), 
+            -.2rem -.2rem 1.8rem var(--white);
+  }
 
 /* Search */
 .SearchComponent{
     width: 100% !important;
     text-align: center !important;
-    margin-top: 5px !important;
+    margin-top: 20px !important;
     margin-bottom: 5px !important;
     text-align: center !important;    
 }
