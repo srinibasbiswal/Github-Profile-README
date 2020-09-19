@@ -8,6 +8,7 @@
 .HeaderTitle{
     margin: auto auto !important;
     max-width:  150px !important;
+    font-size: 1.25rem !important;
 }
 
 .GitHubBanner{
@@ -33,17 +34,10 @@ fill:#70B7FD; color:#fff; position: absolute; top: 0; border: 0; right: 0;
     }
 }
 
-/* Search */
-.SearchComponent{
-    width: 100% !important;
-    text-align: center !important;
-    margin-top: 5px !important;
-}
-
 /* Wall */
 .ProfileCardContainer{
     max-width: 75vw !important;
-    margin: auto auto !important;
+    margin: 10px auto !important;
 }
 
 /* Card */
@@ -51,4 +45,68 @@ fill:#70B7FD; color:#fff; position: absolute; top: 0; border: 0; right: 0;
     max-width: 75vw !important;
     margin: auto auto !important;
     border-style: solid;
+}
+
+/* Search */
+.SearchComponent{
+    width: 100% !important;
+    text-align: center !important;
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+    text-align: center !important;    
+}
+
+.search {
+    margin: auto auto !important;
+    width: 18% !important;
+    position: relative !important;
+    display: -webkit-box !important;
+    display: flex !important;
+    -webkit-box-align: center !important;
+    align-items: center !important;
+}
+.search__input {
+    width: 20.4rem !important;
+    height: 4rem !important;
+    border: none !important;
+    border-radius: 1rem !important;
+    font-size: 1.4rem !important;
+    padding-left: 3.8rem !important;
+    box-shadow: inset 0.2rem 0.2rem 0.5rem var(--greyLight-2), inset -0.2rem -0.2rem 0.5rem var(--white) !important;
+    background: none !important;
+    font-family: inherit !important;
+    color: var(--greyDark) !important;
+}
+.search__input::-webkit-input-placeholder {
+    color: var(--greyLight-3) !important;
+}
+.search__input::-moz-placeholder {
+    color: var(--greyLight-3) !important;
+}
+.search__input:-ms-input-placeholder {
+    color: var(--greyLight-3) !important;
+}
+.search__input::-ms-input-placeholder {
+    color: var(--greyLight-3) !important;
+}
+.search__input::placeholder {
+    color: var(--greyLight-3) !important;
+}
+.search__input:focus {
+    outline: none !important;
+    box-shadow: 0.3rem 0.3rem 0.6rem var(--greyLight-2), -0.2rem -0.2rem 0.5rem var(--white) !important;
+}
+.search__input:focus + .search__icon {
+    color: var(--primary) !important;
+}
+.search__icon {
+    height: 2rem !important;
+    position: absolute !important;
+    font-size: 2rem !important;
+    padding: 0 1rem !important;
+    display: -webkit-box !important;
+    display: flex !important;
+    color: var(--greyDark) !important;
+    -webkit-transition: .3s ease !important;
+    transition: .3s ease !important;
 }

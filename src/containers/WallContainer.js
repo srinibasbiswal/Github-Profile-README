@@ -2,6 +2,8 @@ import React, { useEffect, useState } from 'react';
 import styles from '../stylesheets/style.module.css';
 import {users} from '../dataSet/users';
 import ProfileCardComponent from '../components/ProfileCardComponent';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faSearch } from '@fortawesome/free-solid-svg-icons'
 
 function WallContainer(){
 
@@ -80,12 +82,16 @@ function WallContainer(){
         <React.Fragment>
             <div className={`${styles.SearchComponent}`}>
                 <form onSubmit={handleSubmit}>
-                    <label>
-                    <input type="text" placeholder="Search" name="search" value={searchValue} onChange={search}/>
-                    </label>
-                    <input type="submit" value="Submit" />
+                    <div className={styles.search}>
+                        <input type="text" value={searchValue} onChange={search} className={styles.search__input} placeholder="Search GitHub User Name"/>
+                        <div className={styles.search__icon}>
+                        <FontAwesomeIcon name="search" icon={faSearch}></FontAwesomeIcon>
+                        </div>
+                    </div>                                       
                 </form>
+                
             </div>
+            
             {
             (typeof userGithubCards.cards !== 'undefined')
                 ? <div className={styles.ProfileCardContainer}>
