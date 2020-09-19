@@ -7,12 +7,14 @@
 
 .HeaderTitle{
     margin: auto auto !important;
-    max-width:  150px !important;
-    font-size: 1.25rem !important;
+    font-family: 'Yatra One', cursive;
+    max-width:  325px !important;
+    color: var(--primary) !important;
+    font-size: 2.5rem !important;
 }
 
 .GitHubBanner{
-fill:#70B7FD; color:#fff; position: absolute; top: 0; border: 0; right: 0;
+fill:var(--primary); color:#fff; position: absolute; top: 0; border: 0; right: 0;
 }
 .octo_arm{
     transform-origin: 130px 106px;
