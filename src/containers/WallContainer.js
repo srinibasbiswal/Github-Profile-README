@@ -101,6 +101,7 @@ function WallContainer(){
                                 <ProfileCardComponent
                                     profileDetails = {profile}
                                     markDown={userGithubCards.cards[profile.githubUserName]}
+                                    index={index}
                                 />
                             )
                         })
