@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import React, { useEffect, useState } from 'react'
+import React, { useState } from 'react'
 import ReactMarkdown from "react-markdown";
 import styles from '../stylesheets/style.module.css';
 import { faGithub } from '@fortawesome/free-brands-svg-icons'
