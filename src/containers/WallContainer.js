@@ -70,7 +70,7 @@ function WallContainer(){
         var profileCards = globalProfiles.profiles;
         var matchedProfiles = [];
         profileCards.forEach(profile => {
-            if (profile.githubUserName.indexOf(searchValue) !== -1 ){
+            if (profile.githubUserName.toUpperCase().indexOf(searchValue.toUpperCase()) !== -1 ){
                 matchedProfiles.push(profile);
             }
         });
