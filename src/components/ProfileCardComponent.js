@@ -8,12 +8,12 @@ function ProfileCardComponent(props){
 
     const [currentComponent, setCurrentComponent] = useState('MarkDownDesign');
 
-    const showMarkUpDesign = () =>{
-        setCurrentComponent('MarkDownDesign');
-    }
-
-    const showMarkUpCode = () =>{
-        setCurrentComponent('MarkDownCode');
+    const switchDesign = () =>{
+        if (currentComponent == 'MarkDownDesign'){
+            setCurrentComponent('MarkDownCode');
+        }else if (currentComponent == 'MarkDownCode'){
+            setCurrentComponent('MarkDownDesign');
+        }
     }
 
     return(
@@ -32,7 +32,7 @@ function ProfileCardComponent(props){
                         <h3>Show Code</h3>
                         <div className={styles.switch}>                    
                             <div className={styles.switch__toggle}>
-                                <input id={props.index} type="checkbox"/>
+                                <input id={props.index} type="checkbox"  onClick={switchDesign}/>
                                 <label for={props.index}></label>
                             </div>
                         </div>
