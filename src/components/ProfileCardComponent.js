@@ -3,6 +3,8 @@ import React, { useEffect, useState } from 'react'
 import ReactMarkdown from "react-markdown";
 import styles from '../stylesheets/style.module.css';
 import { faGithub } from '@fortawesome/free-brands-svg-icons'
+import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter';
+import { darcula } from 'react-syntax-highlighter/dist/esm/styles/prism';
 
 function ProfileCardComponent(props){
 
@@ -41,7 +43,9 @@ function ProfileCardComponent(props){
             { 
                 (currentComponent === 'MarkDownDesign') 
                 ?  <ReactMarkdown source={props.markDown}/>
-                : null
+                : <SyntaxHighlighter language="markdown" style={darcula}>
+                    {props.markDown}
+                    </SyntaxHighlighter>
             }
         </div>
         
