@@ -1,68 +1,53 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# GitHub Profile README / Cards 
+![GitHub pull requests](https://img.shields.io/github/issues-pr/srinibasbiswal/GithubProfileCards?color=green) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/srinibasbiswal/GithubProfileCards) ![GitHub contributors](https://img.shields.io/github/contributors-anon/srinibasbiswal/GithubProfileCards)
 
-## Available Scripts
+Happy Hacktoberfest! Hacktoberfest is back :fire:
+Github Profile Cards is a list of GitHub Profle README templates of Hacktoberfest 2020 participants.
 
-In the project directory, you can run:
+Link to webpage: [https://srinibasbiswal.github.io/GithubProfileCards/](https://srinibasbiswal.github.io/GithubProfileCards/)
 
-### `npm start`
+## Contributing
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+If this is your first pull request, please read this article: [How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Read more about GitHub Profile README: [GitHub Official Profile README Docs](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
 
-### `npm test`
+### Step 1
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Fork the repo by pressing the "Fork" button on the top right side of the
+repository and clone your forked repository.
 
-### `npm run build`
+### Step 2
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+In your forked repository, edit `users.js` [(src/dataSet/users.js)](src/dataSet/users.js) and add your name and github userName to the bottom of the file using this format:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+```
+  {
+    name : "Full Name",
+    github : "github userName"
+  }
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Step 3 
 
-### `npm run eject`
+In your forked repository, go to `githubCards folder` [(src/dataSet/githubCards)](src/dataSet/githubCards) and add you Github Profile README template keeping the name of the file as your `github userName` with extension as `.md`.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```
+Example : 
+if GitHub userName is srinibasbiswal, then the fileName will be :
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+srinibasbiswal.md
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Step 4 
 
-## Learn More
+Commit your changes and submit a pull request! After your pull request gets accepted, you will be able to see your very own GitHub README card on the [GithubProfileCards](https://srinibasbiswal.github.io/GithubProfileCards/)!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Step 5
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Please star the repo if you like this fun little Hacktoberfest project :heart:
 
-### Code Splitting
+## License
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+[MIT](LICENSE)
