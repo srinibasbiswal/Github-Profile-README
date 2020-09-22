@@ -1,10 +1,10 @@
-# GitHub Profile README / Cards 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/srinibasbiswal/GithubProfileCards?color=green) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/srinibasbiswal/GithubProfileCards) ![GitHub contributors](https://img.shields.io/github/contributors-anon/srinibasbiswal/GithubProfileCards)
+# GitHub Profile READMEs
+![GitHub pull requests](https://img.shields.io/github/issues-pr/srinibasbiswal/GithubProfileReadMe?color=green) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/srinibasbiswal/GithubProfileReadMe) ![GitHub contributors](https://img.shields.io/github/contributors-anon/srinibasbiswal/GithubProfileReadMe)
 
 Happy Hacktoberfest! Hacktoberfest is back :fire:
 Github Profile Cards is a list of GitHub Profle README templates of Hacktoberfest 2020 participants.
 
-Link to webpage: [https://srinibasbiswal.github.io/GithubProfileCards/](https://srinibasbiswal.github.io/GithubProfileCards/)
+Link to webpage: [https://srinibasbiswal.github.io/GithubProfileReadMe/](https://srinibasbiswal.github.io/GithubProfileReadMe/)
 
 ## Contributing
 
@@ -42,7 +42,7 @@ srinibasbiswal.md
 
 ### Step 4 
 
-Commit your changes and submit a pull request! After your pull request gets accepted, you will be able to see your very own GitHub README card on the [GithubProfileCards](https://srinibasbiswal.github.io/GithubProfileCards/)!
+Commit your changes and submit a pull request! After your pull request gets accepted, you will be able to see your very own GitHub README card on the [GithubProfileReadMe](https://srinibasbiswal.github.io/GithubProfileReadMe/)!
 
 ### Step 5
 
