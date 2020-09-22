@@ -46,7 +46,6 @@ function WallContainer(){
                 )))
                 .then((mdData) => {
                     fileNameExecutionSeq.forEach( (fName,index) => {
-                        console.log(fName,index);
                         var cards = userGithubCards;
                         cards[fName] = mdData[index]
                         setuserGithubCards({cards});
@@ -102,6 +101,7 @@ function WallContainer(){
                                     profileDetails = {profile}
                                     markDown={userGithubCards.cards[profile.githubUserName]}
                                     index={index}
+                                    key={index}
                                 />
                             )
                         })

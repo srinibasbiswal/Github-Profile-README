@@ -11,9 +11,9 @@ function ProfileCardComponent(props){
     const [currentComponent, setCurrentComponent] = useState('MarkDownDesign');
 
     const switchDesign = () =>{
-        if (currentComponent == 'MarkDownDesign'){
+        if (currentComponent === 'MarkDownDesign'){
             setCurrentComponent('MarkDownCode');
-        }else if (currentComponent == 'MarkDownCode'){
+        }else if (currentComponent === 'MarkDownCode'){
             setCurrentComponent('MarkDownDesign');
         }
     }
@@ -23,11 +23,11 @@ function ProfileCardComponent(props){
             <div className={styles.ProfileCard}>
                 <div className={styles.CardHeader}>
                     <div className={styles.chipLeft}>
-                        <div className={styles.icon}>
+                        <a className={styles.icon} href={`https://github.com/${props.profileDetails.githubUserName}`} rel="noopener noreferrer" target="_blank">
                             <div className={styles.icon__github}>
                                 <FontAwesomeIcon name="search" icon={faGithub}></FontAwesomeIcon>
                             </div>
-                        </div>
+                        </a>
                         <h3>{props.profileDetails.githubUserName}</h3>
                     </div>
                     <div className={styles.chipRight}>
@@ -35,7 +35,7 @@ function ProfileCardComponent(props){
                         <div className={styles.switch}>                    
                             <div className={styles.switch__toggle}>
                                 <input id={props.index} type="checkbox"  onClick={switchDesign}/>
-                                <label for={props.index}></label>
+                                <label htmlFor={props.index}></label>
                             </div>
                         </div>
                     </div>    
