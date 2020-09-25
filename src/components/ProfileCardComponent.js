@@ -1,11 +1,11 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React, { useState } from 'react'
-import ReactMarkdown from "react-markdown";
+import MDEditor from '@uiw/react-md-editor';
 import styles from '../stylesheets/style.module.css';
 import { faGithub } from '@fortawesome/free-brands-svg-icons'
 import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter';
 import { darcula } from 'react-syntax-highlighter/dist/esm/styles/prism';
-import MDEditor from '@uiw/react-md-editor';
+
 
 function ProfileCardComponent(props){
 
