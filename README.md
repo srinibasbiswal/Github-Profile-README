@@ -19,7 +19,7 @@ repository and clone your forked repository.
 
 ### Step 2
 
-In your forked repository, edit `users.js` [(src/dataSet/users.js)](src/dataSet/users.js) and add your name and github userName to the bottom of the file using this format:
+In your forked repository, edit `users.js` [(src/dataSet/users.js)](src/dataSet/users.js) and add your name and github userName to the bottom of the file using this format with adding a comma after the end of the prevoius user's data. :
 
 ```
   {
