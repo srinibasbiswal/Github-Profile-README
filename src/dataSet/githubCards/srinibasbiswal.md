@@ -1,52 +1,12 @@
-# Markdown syntax guide
+## नमस्ते (Namaste), I am [Srinibas Biswal](https://srinibasbiswal.com/)
 
-## Headers
+[![Twitter Badge](https://img.shields.io/badge/-@srinibasbiswal-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/srinibasbiswal)](https://twitter.com/srinibasbiswal) [![Instagram Badge](https://img.shields.io/badge/-@srinibas_biswal-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/srinibas_biswal)](https://instagram.com/srinibas_biswal) [![Linkedin Badge](https://img.shields.io/badge/-/in/srinibasbiswal/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srinibasbiswal//)](https://www.linkedin.com/in/srinibasbiswal/)
+[![Gmail Badge](https://img.shields.io/badge/-srinibasbiswal02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srinibasbiswal02@gmail.com)](mailto:srinibasbiswal02@gmail.com)
 
-# This is a Heading h1
-## This is a Heading h2 
-###### This is a Heading h6
+### Some of the things I crafted or am crafting:
 
-## Emphasis
+- ![Portfolio OS Theme](https://smoothcss.xyz/logo-16.png) [Portfolio_OS_Theme](https://github.com/srinibasbiswal/Portfolio_OS_Theme) - A Portfolio website based on Windows OS theme.
+- ![NoteStack](https://colorspalette.design/logo-16.png) [NoteStack](https://github.com/srinibasbiswal/NoteStack) - A Note sharing Android application
+- ![Github Profile READMEs](https://avatars3.githubusercontent.com/u/64769894?s=16&v=4) [Github Profile READMEs](https://github.com/srinibasbiswal/Github-Profile-README) - List of Github READMEs
 
-*This text will be italic*  
-_This will also be italic_
-
-**This text will be bold**  
-__This will also be bold__
-
-_You **can** combine them_
-
-## Lists
-
-### Unordered
-
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-
-### Ordered
-
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-
-## Images
-
-![This is a alt text.](/image/sample.png "This is a sample image.")
-
-## Links
-
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
-
-## Blockquotes
-
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
->> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-
-## Inline code
-
-This web site is using `markedjs/marked`.
+### Learn more about me - [https://srinibasbiswal.com/](https://srinibasbiswal.com/)
