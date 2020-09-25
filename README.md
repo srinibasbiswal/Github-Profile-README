@@ -4,7 +4,7 @@
 Happy Hacktoberfest! Hacktoberfest is back :fire:
 Github Profile Cards is a list of GitHub Profle README templates of Hacktoberfest 2020 participants.
 
-Link to webpage: [https://srinibasbiswal.github.io/Github-Profile-README/](https://srinibasbiswal.github.io/Github-Profile-README/)
+Link to webpage: [https://github-profile-readmes.firebaseapp.com/](https://github-profile-readmes.firebaseapp.com/)
 
 ## Contributing
 
@@ -42,7 +42,7 @@ srinibasbiswal.md
 
 ### Step 4 
 
-Commit your changes and submit a pull request! After your pull request gets accepted, you will be able to see your very own GitHub README card on the [Github Profile READMEs](https://srinibasbiswal.github.io/Github-Profile-README/)!
+Commit your changes and submit a pull request! After your pull request gets accepted, you will be able to see your very own GitHub README card on the [Github Profile READMEs](https://github-profile-readmes.firebaseapp.com/)!
 
 ### Step 5
 
