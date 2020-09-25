@@ -30,6 +30,7 @@ function WallContainer(){
         setusersProfile({profiles : profileCards})
         setglobalProfiles({profiles : profileCards})           
         renderPosts();
+        // eslint-disable-next-line    
       }, []);
 
     const renderPosts = async() => {
