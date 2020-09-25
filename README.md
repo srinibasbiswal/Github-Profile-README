@@ -24,7 +24,7 @@ In your forked repository, edit `users.js` [(src/dataSet/users.js)](src/dataSet/
 ```
   {
     name : "Full Name",
-    github : "github userName"
+    githubUserName : "github userName"
   }
 ```
 
