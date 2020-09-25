@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Github-Profile-README/static/css/main.5e9a3cd1.chunk.css",
-    "main.js": "/Github-Profile-README/static/js/main.459109be.chunk.js",
-    "main.js.map": "/Github-Profile-README/static/js/main.459109be.chunk.js.map",
-    "runtime-main.js": "/Github-Profile-README/static/js/runtime-main.e95fe12f.js",
-    "runtime-main.js.map": "/Github-Profile-README/static/js/runtime-main.e95fe12f.js.map",
-    "static/js/2.adb153ac.chunk.js": "/Github-Profile-README/static/js/2.adb153ac.chunk.js",
-    "static/js/2.adb153ac.chunk.js.map": "/Github-Profile-README/static/js/2.adb153ac.chunk.js.map",
-    "index.html": "/Github-Profile-README/index.html",
-    "precache-manifest.e98551c913a04b3a935316d9d9bf1ef0.js": "/Github-Profile-README/precache-manifest.e98551c913a04b3a935316d9d9bf1ef0.js",
-    "service-worker.js": "/Github-Profile-README/service-worker.js",
-    "static/css/main.5e9a3cd1.chunk.css.map": "/Github-Profile-README/static/css/main.5e9a3cd1.chunk.css.map",
-    "static/js/2.adb153ac.chunk.js.LICENSE.txt": "/Github-Profile-README/static/js/2.adb153ac.chunk.js.LICENSE.txt",
-    "static/media/srinibasbiswal.md": "/Github-Profile-README/static/media/srinibasbiswal.bbf7bd6f.md",
-    "static/media/test.md": "/Github-Profile-README/static/media/test.204ccae9.md"
+    "main.css": "/static/css/main.5e9a3cd1.chunk.css",
+    "main.js": "/static/js/main.1b81092c.chunk.js",
+    "main.js.map": "/static/js/main.1b81092c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2ce1541d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2ce1541d.js.map",
+    "static/js/2.adb153ac.chunk.js": "/static/js/2.adb153ac.chunk.js",
+    "static/js/2.adb153ac.chunk.js.map": "/static/js/2.adb153ac.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.25617bae1d3a2dae70a473d2d20027ee.js": "/precache-manifest.25617bae1d3a2dae70a473d2d20027ee.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5e9a3cd1.chunk.css.map": "/static/css/main.5e9a3cd1.chunk.css.map",
+    "static/js/2.adb153ac.chunk.js.LICENSE.txt": "/static/js/2.adb153ac.chunk.js.LICENSE.txt",
+    "static/media/srinibasbiswal.md": "/static/media/srinibasbiswal.bbf7bd6f.md",
+    "static/media/test.md": "/static/media/test.204ccae9.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.e95fe12f.js",
+    "static/js/runtime-main.2ce1541d.js",
     "static/js/2.adb153ac.chunk.js",
     "static/css/main.5e9a3cd1.chunk.css",
-    "static/js/main.459109be.chunk.js"
+    "static/js/main.1b81092c.chunk.js"
   ]
 }
