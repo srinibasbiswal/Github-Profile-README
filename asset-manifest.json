@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/srinibasbiswal/Github-Profile-README/static/css/main.5e9a3cd1.chunk.css",
-    "main.js": "/srinibasbiswal/Github-Profile-README/static/js/main.741903a5.chunk.js",
-    "main.js.map": "/srinibasbiswal/Github-Profile-README/static/js/main.741903a5.chunk.js.map",
-    "runtime-main.js": "/srinibasbiswal/Github-Profile-README/static/js/runtime-main.82981209.js",
-    "runtime-main.js.map": "/srinibasbiswal/Github-Profile-README/static/js/runtime-main.82981209.js.map",
-    "static/js/2.adb153ac.chunk.js": "/srinibasbiswal/Github-Profile-README/static/js/2.adb153ac.chunk.js",
-    "static/js/2.adb153ac.chunk.js.map": "/srinibasbiswal/Github-Profile-README/static/js/2.adb153ac.chunk.js.map",
-    "index.html": "/srinibasbiswal/Github-Profile-README/index.html",
-    "precache-manifest.25d88ec9f9e6a98d3c7d2fcf945f8c33.js": "/srinibasbiswal/Github-Profile-README/precache-manifest.25d88ec9f9e6a98d3c7d2fcf945f8c33.js",
-    "service-worker.js": "/srinibasbiswal/Github-Profile-README/service-worker.js",
-    "static/css/main.5e9a3cd1.chunk.css.map": "/srinibasbiswal/Github-Profile-README/static/css/main.5e9a3cd1.chunk.css.map",
-    "static/js/2.adb153ac.chunk.js.LICENSE.txt": "/srinibasbiswal/Github-Profile-README/static/js/2.adb153ac.chunk.js.LICENSE.txt",
-    "static/media/srinibasbiswal.md": "/srinibasbiswal/Github-Profile-README/static/media/srinibasbiswal.bbf7bd6f.md",
-    "static/media/test.md": "/srinibasbiswal/Github-Profile-README/static/media/test.204ccae9.md"
+    "main.css": "/static/css/main.5e9a3cd1.chunk.css",
+    "main.js": "/static/js/main.1b81092c.chunk.js",
+    "main.js.map": "/static/js/main.1b81092c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2ce1541d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2ce1541d.js.map",
+    "static/js/2.adb153ac.chunk.js": "/static/js/2.adb153ac.chunk.js",
+    "static/js/2.adb153ac.chunk.js.map": "/static/js/2.adb153ac.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.25617bae1d3a2dae70a473d2d20027ee.js": "/precache-manifest.25617bae1d3a2dae70a473d2d20027ee.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5e9a3cd1.chunk.css.map": "/static/css/main.5e9a3cd1.chunk.css.map",
+    "static/js/2.adb153ac.chunk.js.LICENSE.txt": "/static/js/2.adb153ac.chunk.js.LICENSE.txt",
+    "static/media/srinibasbiswal.md": "/static/media/srinibasbiswal.bbf7bd6f.md",
+    "static/media/test.md": "/static/media/test.204ccae9.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.82981209.js",
+    "static/js/runtime-main.2ce1541d.js",
     "static/js/2.adb153ac.chunk.js",
     "static/css/main.5e9a3cd1.chunk.css",
-    "static/js/main.741903a5.chunk.js"
+    "static/js/main.1b81092c.chunk.js"
   ]
 }
