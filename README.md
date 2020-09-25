@@ -44,9 +44,23 @@ srinibasbiswal.md
 
 Commit your changes and submit a pull request! After your pull request gets accepted, you will be able to see your very own GitHub README card on the [Github Profile READMEs](https://github-profile-readmes.firebaseapp.com/)!
 
+* Make sure you have updated code from the master branch before making the pull request.
+
 ### Step 5
 
 Please star the repo if you like this fun little Hacktoberfest project :heart:
+
+
+### How to run / debug in your local
+
+After cloning the repo, run the following commands.
+```
+npm install
+npm start
+```
+
+* Make sure you have Node installed in your local system.
+
 
 ## License
 
