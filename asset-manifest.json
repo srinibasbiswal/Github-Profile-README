@@ -903,28 +903,29 @@
     "static/js/450.c7b4236b.chunk.js": "/static/js/450.c7b4236b.chunk.js",
     "static/js/450.c7b4236b.chunk.js.map": "/static/js/450.c7b4236b.chunk.js.map",
     "main.css": "/static/css/main.992fd95b.chunk.css",
-    "main.js": "/static/js/main.026b5b3d.chunk.js",
-    "main.js.map": "/static/js/main.026b5b3d.chunk.js.map",
+    "main.js": "/static/js/main.8430ddb3.chunk.js",
+    "main.js.map": "/static/js/main.8430ddb3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.09ad366b.js",
     "runtime-main.js.map": "/static/js/runtime-main.09ad366b.js.map",
     "static/css/453.84e3b72c.chunk.css": "/static/css/453.84e3b72c.chunk.css",
-    "static/js/453.ca1c1795.chunk.js": "/static/js/453.ca1c1795.chunk.js",
-    "static/js/453.ca1c1795.chunk.js.map": "/static/js/453.ca1c1795.chunk.js.map",
+    "static/js/453.afac389c.chunk.js": "/static/js/453.afac389c.chunk.js",
+    "static/js/453.afac389c.chunk.js.map": "/static/js/453.afac389c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e41b32abd8503091e00afb03dc8fa44c.js": "/precache-manifest.e41b32abd8503091e00afb03dc8fa44c.js",
+    "precache-manifest.b50deaf2b5d8eb43da72a95f8195274f.js": "/precache-manifest.b50deaf2b5d8eb43da72a95f8195274f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/453.84e3b72c.chunk.css.map": "/static/css/453.84e3b72c.chunk.css.map",
     "static/css/main.992fd95b.chunk.css.map": "/static/css/main.992fd95b.chunk.css.map",
-    "static/js/453.ca1c1795.chunk.js.LICENSE.txt": "/static/js/453.ca1c1795.chunk.js.LICENSE.txt",
+    "static/js/453.afac389c.chunk.js.LICENSE.txt": "/static/js/453.afac389c.chunk.js.LICENSE.txt",
     "static/media/caroline-rodrigues.md": "/static/media/caroline-rodrigues.9a206fcb.md",
     "static/media/kdimas12.md": "/static/media/kdimas12.77d89f40.md",
-    "static/media/srinibasbiswal.md": "/static/media/srinibasbiswal.73c9b07d.md"
+    "static/media/srinibasbiswal.md": "/static/media/srinibasbiswal.73c9b07d.md",
+    "static/media/vyasriday.md": "/static/media/vyasriday.3eca5571.md"
   },
   "entrypoints": [
     "static/js/runtime-main.09ad366b.js",
     "static/css/453.84e3b72c.chunk.css",
-    "static/js/453.ca1c1795.chunk.js",
+    "static/js/453.afac389c.chunk.js",
     "static/css/main.992fd95b.chunk.css",
-    "static/js/main.026b5b3d.chunk.js"
+    "static/js/main.8430ddb3.chunk.js"
   ]
 }
