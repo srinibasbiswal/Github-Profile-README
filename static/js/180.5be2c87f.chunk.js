@@ -1,0 +1,2 @@
+(this.webpackJsonpgithubprofilereadmes=this.webpackJsonpgithubprofilereadmes||[]).push([[180],{255:function(t,e){Prism.languages.ini={comment:/^[ \t]*[;#].*$/m,selector:/^[ \t]*\[.*?\]/m,constant:/^[ \t]*[^\s=]+?(?=[ \t]*=)/m,"attr-value":{pattern:/=.*/,inside:{punctuation:/^[=]/}}}}}]);
+//# sourceMappingURL=180.5be2c87f.chunk.js.map

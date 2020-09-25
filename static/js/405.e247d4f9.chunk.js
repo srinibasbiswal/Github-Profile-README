@@ -1,0 +1,2 @@
+(this.webpackJsonpgithubprofilereadmes=this.webpackJsonpgithubprofilereadmes||[]).push([[405],{480:function(s,e){var i=Prism.util.clone(Prism.languages.typescript);Prism.languages.tsx=Prism.languages.extend("jsx",i)}}]);
+//# sourceMappingURL=405.e247d4f9.chunk.js.map

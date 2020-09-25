@@ -1,0 +1,2 @@
+(this.webpackJsonpgithubprofilereadmes=this.webpackJsonpgithubprofilereadmes||[]).push([[176],{251:function(e,n){var g;(g=Prism).languages.ignore={comment:/^#.*/m,entry:{pattern:/\S(?:.*(?:(?:\\ )|\S))?/,alias:"string",inside:{operator:/^!|\*\*?|\?/,regex:{pattern:/(^|[^\\])\[[^\[\]]*\]/,lookbehind:!0},punctuation:/\//}}},g.languages.gitignore=g.languages.ignore,g.languages.hgignore=g.languages.ignore,g.languages.npmignore=g.languages.ignore}}]);
+//# sourceMappingURL=176.926f7d9a.chunk.js.map
