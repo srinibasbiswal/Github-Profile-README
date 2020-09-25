@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab57b7b5a53cf731ad53754f415ee7ef",
+    "revision": "6980aa8231de852e51ac0372713af24f",
     "url": "/index.html"
   },
   {
-    "revision": "d4c51ad30960f0da2370",
+    "revision": "e235ff494d4951ce7124",
     "url": "/static/css/main.992fd95b.chunk.css"
   },
   {
-    "revision": "e55e5da6df2ef7475179",
-    "url": "/static/js/2.adb153ac.chunk.js"
+    "revision": "672b1a04de24cd4eeead",
+    "url": "/static/js/2.ebab8c75.chunk.js"
   },
   {
     "revision": "05d5bb7b37cd264eb188b9bb0ea9612c",
-    "url": "/static/js/2.adb153ac.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ebab8c75.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d4c51ad30960f0da2370",
-    "url": "/static/js/main.b2aec812.chunk.js"
+    "revision": "e235ff494d4951ce7124",
+    "url": "/static/js/main.4a01970f.chunk.js"
   },
   {
     "revision": "12ff952159b0f6b4c5f7",
     "url": "/static/js/runtime-main.2ce1541d.js"
+  },
+  {
+    "revision": "9a206fcb0e0fa9498268ef02a42ad055",
+    "url": "/static/media/caroline-rodrigues.9a206fcb.md"
   },
   {
     "revision": "77d89f404de84b3b453e65a930b8bd6c",
