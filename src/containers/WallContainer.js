@@ -20,7 +20,7 @@ function WallContainer(){
     const [searchValue, setsearchValue] = useState('');
 
     const importAll = (r) => r.keys().map(r);
-    const markdownFiles = importAll(require.context('../static/media/', false, /\.md$/)).sort().reverse();
+    const markdownFiles = importAll(require.context('../dataSet/githubCards', false, /\.md$/)).sort().reverse();
 
     useEffect(() => {
         var profileCards = [];
