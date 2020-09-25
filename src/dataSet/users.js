@@ -2,13 +2,12 @@ export const users = [
     
     {
         name : 'Srinibas Biswal',
-        githubUserName : 'srinibasbiswal',
-        linkedIn : 'in/srinibasbiswal'
+        githubUserName : 'srinibasbiswal'
     },
     {
         name : "Dimas Kurniawan",
-        github : "kdimas12"
-      }
+        githubUserName : "kdimas12"
+    }
     
 
 ]
