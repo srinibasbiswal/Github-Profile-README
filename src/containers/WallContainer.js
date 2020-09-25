@@ -3,7 +3,7 @@ import styles from '../stylesheets/style.module.css';
 import {users} from '../dataSet/users';
 import ProfileCardComponent from '../components/ProfileCardComponent';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faSearch } from '@fortawesome/free-solid-svg-icons'
+import { faSearch } from '@fortawesome/free-solid-svg-icons';
 
 function WallContainer(){
 
