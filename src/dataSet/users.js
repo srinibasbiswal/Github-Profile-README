@@ -59,7 +59,7 @@ export const users = [
     },
     {
       name : "Aniruddh Parwal",
-      github : "aniruddhparwal"
+      githubUserName : "aniruddhparwal"
     }
   
 
