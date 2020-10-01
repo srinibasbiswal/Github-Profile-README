@@ -27,6 +27,10 @@ export const users = [
     {
         name:  "Aniket Singh",
         githubUserName:  "aniketsingh98571"
+    },
+    {
+        name: "Shubham Yadav",
+        githubUserName: "shubhamdsm"
     }
     
 
