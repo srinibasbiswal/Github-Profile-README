@@ -1,5 +1,5 @@
 # GitHub Profile READMEs
-![GitHub pull requests](https://img.shields.io/github/issues-pr/srinibasbiswal/GithubProfileReadMe?color=green) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/srinibasbiswal/GithubProfileReadMe) ![GitHub contributors](https://img.shields.io/github/contributors-anon/srinibasbiswal/GithubProfileReadMe)
+![Build & Deploy](https://github.com/srinibasbiswal/Github-Profile-README/workflows/Build%20&%20Deploy/badge.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/srinibasbiswal/GithubProfileReadMe?color=green) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/srinibasbiswal/GithubProfileReadMe) ![GitHub contributors](https://img.shields.io/github/contributors-anon/srinibasbiswal/GithubProfileReadMe)
 
 Happy Hacktoberfest! Hacktoberfest is back :fire:
 Github Profile Cards is a list of GitHub Profle README templates of Hacktoberfest 2020 participants.
@@ -19,7 +19,7 @@ repository and clone your forked repository.
 
 ### Step 2
 
-In your forked repository, edit `users.js` [(src/dataSet/users.js)](src/dataSet/users.js) and add your name and github userName to the bottom of the file using this format:
+In your forked repository, edit `users.js` [(src/dataSet/users.js)](src/dataSet/users.js) and add your name and github userName to the bottom of the file using this format with adding a comma after the end of the previous user's data. :
 
 ```
   {
