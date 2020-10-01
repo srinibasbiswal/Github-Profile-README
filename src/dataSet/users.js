@@ -10,11 +10,11 @@ export const users = [
     },
     {
         name : 'Caroline Rodrigues',
-        githubUserName : 'caroline-rodrigues',
+        githubUserName : 'caroline-rodrigues'
     },
     {
         name : 'Hridayesh Sharma',
-        githubUserName : 'vyasriday',
+        githubUserName : 'vyasriday'
     },
     {
         name: "Lucas Guiss Gusmão",
@@ -52,7 +52,11 @@ export const users = [
     {
        name: "Aryan Chawla",
        githubUserName: "aryan-chawla"
+    },
+    {
+        name : 'Ayush Maloo',
+        githubUserName : 'ayushmaloo'
     }
-
+  
   
 ]
