@@ -105,9 +105,11 @@ export const users = [
     {
       name : "Pankaj Bhadane",
       githubUserName : "python1neo"
+    },
+    {
+        name: "Vishal Pattnaik",
+        githubUserName: "vishalpattnaik"
     }
-
-
 
    
 
