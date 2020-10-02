@@ -70,10 +70,19 @@ export const users = [
         githubUserName: "shin-iji"
     },
     {
+        name: "Anshu Kumar",
+        githubUserName: "kumaranshu72"
+    
+    },
+    {
+        name: "Mike Chen",
+        githubUserName: "DriftingShadows"
+    },
+    {
         name: "Manisha Kanyal",
         githubUserName: "manishakanyal"
     }
   
-  
    
+
 ]
