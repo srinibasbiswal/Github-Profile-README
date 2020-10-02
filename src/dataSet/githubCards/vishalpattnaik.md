@@ -1,4 +1,4 @@
-<img style="border: none;" align="right" width="350" height="350" src="https://drive.google.com/file/d/1L7qlisp8ZnGc2zO4SLAkpA45e8JVK5rF/view?usp=sharing">
+<img style="border: none;" align="right" width="350" height="350" src="https://drive.google.com/uc?export=view&id=1L7qlisp8ZnGc2zO4SLAkpA45e8JVK5rF">
 
 ### 🖖 Hi, I'm Vishal
 
