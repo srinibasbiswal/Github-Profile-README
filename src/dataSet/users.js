@@ -78,21 +78,21 @@ export const users = [
         name: "Mike Chen",
         githubUserName: "DriftingShadows"
     },
-    {       
+    {
         name: "Leonardo Matheus",
         githubUserName: "leonardomath"
     },
     {
-        name : "Aniruddh Parwal",
-        githubUserName : "aniruddhparwal"
+        name: "Aniruddh Parwal",
+        githubUserName: "aniruddhparwal"
     },
     {
         name: "Ankita Basera",
         githubUserName: "ankitabasera"
     },
     {
-        name : "Apin",
-        githubUserName : "gitapin82y"
+        name: "Apin",
+        githubUserName: "gitapin82y"
     },
     {
         name: "Soni Laia",
@@ -103,8 +103,8 @@ export const users = [
         githubUserName: "vivek32ta"
     },
     {
-      name : "Pankaj Bhadane",
-      githubUserName : "python1neo"
+        name: "Pankaj Bhadane",
+        githubUserName: "python1neo"
     },
     {
         name: "Vishal Pattnaik",
@@ -121,7 +121,7 @@ export const users = [
     {
         name: "fatik",
         githubUserName: "fatik07"
-    },       
+    },
     {
         name: "Manisha Kanyal",
         githubUserName: "manishakanyal"
@@ -145,9 +145,11 @@ export const users = [
     {
         name: "Abhijith P",
         githubUserName: "Abhijith126"
+    },
+    {
+        name: "Fakhrul Zulfi",
+        githubUserName: "fakhrulzulfi"
     }
-     
-  
 
 
 ]
