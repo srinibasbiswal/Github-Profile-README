@@ -78,7 +78,7 @@ export const users = [
         name: "Mike Chen",
         githubUserName: "DriftingShadows"
     },
-    {
+    {       
         name: "Leonardo Matheus",
         githubUserName: "leonardomath"
     },
@@ -121,11 +121,25 @@ export const users = [
     {
         name: "fatik",
         githubUserName: "fatik07"
+    },       
+    {
+        name: "Manisha Kanyal",
+        githubUserName: "manishakanyal"
+    },
+    {
+        name: "aecuto",
+        githubUserName: "aecuto"
+    },
+    {
+        name: "Abishek PY",
+        githubUserName: "vj-abishek"
     },
     {
         name: "Ankita Ugale",
         githubUserName: "ankitaugale23"
     }
+     
+  
 
 
 ]
