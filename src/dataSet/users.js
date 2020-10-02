@@ -1,5 +1,5 @@
 export const users = [
-  
+
     {
         name: 'Srinibas Biswal',
         githubUserName: 'srinibasbiswal'
@@ -86,7 +86,7 @@ export const users = [
         name : "Aniruddh Parwal",
         githubUserName : "aniruddhparwal"
     },
-    {        
+    {
         name: "Ankita Basera",
         githubUserName: "ankitabasera"
     },
@@ -98,10 +98,10 @@ export const users = [
         name: "Soni Laia",
         githubUserName: "sonilaia"
     },
-    {      
+    {
         name: "Vivek T A",
         githubUserName: "vivek32ta"
-    },  
+    },
     {
       name : "Pankaj Bhadane",
       githubUserName : "python1neo"
@@ -121,8 +121,11 @@ export const users = [
     {
         name: "fatik",
         githubUserName: "fatik07"
+    },
+    {
+        name: "Ankita Ugale",
+        githubUserName: "ankitaugale23"
     }
-
 
 
 ]
