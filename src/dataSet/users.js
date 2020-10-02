@@ -70,7 +70,7 @@ export const users = [
         githubUserName: "shin-iji"
     },
     {
-        name: "Manisha Kanyal"
+        name: "Manisha Kanyal",
         githubUserName: "manishakanyal"
     }
   
