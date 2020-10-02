@@ -1,5 +1,5 @@
 export const users = [
-    
+
     {
         name : 'Srinibas Biswal',
         githubUserName : 'srinibasbiswal'
@@ -60,8 +60,11 @@ export const users = [
     {
       name : "Aniruddh Parwal",
       githubUserName : "aniruddhparwal"
+    },
+    {
+        name : "Daniel Sabic",
+        githubUserName : "sabicd"
     }
-  
-
-  
+    
+    
 ]
