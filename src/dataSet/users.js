@@ -58,10 +58,11 @@ export const users = [
         githubUserName : 'ayushmaloo'
     },
     {
-      name : "Aniruddh Parwal",
-      githubUserName : "aniruddhparwal"
+        name : "Aniruddh Parwal",
+        githubUserName : "aniruddhparwal"
+    },
+    {
+        name: "Siradanai Boonyuen",
+        githubUserName: "shin-iji"
     }
-  
-
-  
 ]
