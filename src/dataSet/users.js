@@ -1,20 +1,20 @@
 export const users = [
 
     {
-        name : 'Srinibas Biswal',
-        githubUserName : 'srinibasbiswal'
+        name: 'Srinibas Biswal',
+        githubUserName: 'srinibasbiswal'
     },
     {
-        name : "Dimas Kurniawan",
-        githubUserName : "kdimas12"
+        name: "Dimas Kurniawan",
+        githubUserName: "kdimas12"
     },
     {
-        name : 'Caroline Rodrigues',
-        githubUserName : 'caroline-rodrigues'
+        name: 'Caroline Rodrigues',
+        githubUserName: 'caroline-rodrigues'
     },
     {
-        name : 'Hridayesh Sharma',
-        githubUserName : 'vyasriday'
+        name: 'Hridayesh Sharma',
+        githubUserName: 'vyasriday'
     },
     {
         name: "Lucas Guiss Gusmão",
@@ -25,8 +25,8 @@ export const users = [
         githubUserName: "Aayushi-Mittal"
     },
     {
-        name:  "Aniket Singh",
-        githubUserName:  "aniketsingh98571"
+        name: "Aniket Singh",
+        githubUserName: "aniketsingh98571"
     },
     {
         name: "Shubham Yadav",
@@ -50,20 +50,20 @@ export const users = [
         githubUserName: "dedesaepulloh"
     },
     {
-       name: "Aryan Chawla",
-       githubUserName: "aryan-chawla"
+        name: "Aryan Chawla",
+        githubUserName: "aryan-chawla"
     },
     {
-        name : 'Ayush Maloo',
-        githubUserName : 'ayushmaloo'
+        name: 'Ayush Maloo',
+        githubUserName: 'ayushmaloo'
     },
     {
-        name : "Aniruddh Parwal",
-        githubUserName : "aniruddhparwal"
+        name: "Aniruddh Parwal",
+        githubUserName: "aniruddhparwal"
     },
     {
-        name : "Daniel Sabic",
-        githubUserName : "sabicd"
+        name: "Daniel Sabic",
+        githubUserName: "sabicd"
     },
     {
         name: "Siradanai Boonyuen",
@@ -72,7 +72,7 @@ export const users = [
     {
         name: "Anshu Kumar",
         githubUserName: "kumaranshu72"
-    
+
     },
     {
         name: "Mike Chen",
@@ -81,8 +81,12 @@ export const users = [
     {
         name: "Leonardo Matheus",
         githubUserName: "leonardomath"
+    },
+    {
+        name: "fatik",
+        githubUserName: "fatik07"
     }
-  
-   
+
+
 
 ]
