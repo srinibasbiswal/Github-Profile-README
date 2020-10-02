@@ -97,7 +97,12 @@ export const users = [
     {
         name: "Soni Laia",
         githubUserName: "sonilaia"
+    },
+    {      
+        name: "Vivek T A",
+        githubUserName: "vivek32ta"
     }
+
    
 
 ]
