@@ -141,7 +141,7 @@ export const users = [
     {
         name: "Abhijit Parida",
         githubUserName: "abhijitparida"
-    },
+    }
      
   
 
