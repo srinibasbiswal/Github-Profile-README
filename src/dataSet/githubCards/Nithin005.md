@@ -9,4 +9,4 @@
 
 ##### *uwu:*
 [github](https://github.com/Nithin005) ~ [twitter](https://twitter.com/McleaanNithin) 
-discord: `Nithin005#2517` 
+~ discord: `Nithin005#2517` 
