@@ -163,9 +163,13 @@ export const users = [
         githubUserName : "MThakkar121"
     },
     {
-		    name: 'Mayur Panchal',
-		    githubUserName: 'immayurpanchal',
-	  }
+	name: 'Mayur Panchal',
+	githubUserName: 'immayurpanchal',
+    },
+    {
+	name: 'Vansh Tandon',
+	githubUserName: 'vansh1067'
+    }
 
 ];
 
