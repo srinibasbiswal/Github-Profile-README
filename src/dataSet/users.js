@@ -136,6 +136,26 @@ export const users = [
 		githubUserName: 'ankitaugale23',
 	},
 	{
+		name: 'Abhijit Parida',
+		githubUserName: 'abhijitparida',
+	},
+	{
+		name: 'Abhijith P',
+		githubUserName: 'Abhijith126',
+	},
+	{
+		name: 'Fakhrul Zulfi',
+		githubUserName: 'fakhrulzulfi',
+	},
+	{
+		name: 'Swaraj Laha',
+		githubUserName: 'swarajlaha',
+	},
+	{
+		name: 'Mcleaan Nithin L',
+		githubUserName: 'Nithin005',
+	},
+	{
 		name: 'Mayur Panchal',
 		githubUserName: 'immayurpanchal',
 	},
