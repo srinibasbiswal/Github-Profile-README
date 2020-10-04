@@ -4,8 +4,8 @@ export const users = [
     githubUserName: "srinibasbiswal",
   },
   {
-    name : "Megha Sharma",
-    githubUserName : "meghasharma123"
+    name: "Megha Sharma",
+    githubUserName: "meghasharma123",
   },
   {
     name: "Dimas Kurniawan",
@@ -182,5 +182,9 @@ export const users = [
   {
     name: "Dmitrii Fomin",
     githubUserName: "Kanadets",
+  },
+  {
+    name: "Harshita Raj",
+    githubUserName: "Harshita248",
   },
 ];
