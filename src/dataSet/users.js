@@ -4,6 +4,10 @@ export const users = [
     githubUserName: "srinibasbiswal",
   },
   {
+    name : "Megha Sharma",
+    githubUserName : "meghasharma123"
+  },
+  {
     name: "Dimas Kurniawan",
     githubUserName: "kdimas12",
   },
