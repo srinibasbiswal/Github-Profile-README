@@ -194,6 +194,9 @@ export const users = [
   {
     name : "Moh Prilaksono",
     github : "mohprilaksono"
+  },
+   {
+    name : "komal swami",
+    github : "komalswami"
   }
-  
 ];
