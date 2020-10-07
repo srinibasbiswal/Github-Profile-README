@@ -202,12 +202,15 @@ export const users = [
   {
     name : "Amanda Bozzi",
     githubUserName : "mandy6720"
-  },
+  },  
   {
     name: "Iagor Moraes",
     githubUserName: "iagormoraes"
+  },
+  {
+    name : "Vrinda Gupta",
+    githubUserName : "Vrindagupta6828"
   }
-  
   
   
   
