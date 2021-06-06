@@ -223,5 +223,9 @@ export const users = [{
     {
         name : "Giorgi Siradze",
         githubUserName : "gsiradze"
+    },
+    {
+        name : "Prathima Kadari",
+        githubUserName : "prathimacode-hub"
     }
 ];
